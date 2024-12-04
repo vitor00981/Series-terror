@@ -16,7 +16,6 @@ Se você deseja contribuir para este projeto, fique à vontade para realizar iss
 3. Aprimorar a interface do usuário com CSS.
 4. Documentar o código ou adicionar comentários para facilitar a compreensão.
    Como Começar
-
 5. Faça um fork deste repositório.
 6. Clone o fork para o seu ambiente local.
 7. Implemente suas alterações ou adições.
