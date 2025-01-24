@@ -1,4 +1,4 @@
-# Site de Series de Terror Colaborativo
+# Site de busca de Series de Terror Colaborativo
 
 Este é um projeto colaborativo de um site para buscas de séries de terror. O objetivo é fornecer uma oportunidade para aqueles que desejam aprender sobre colaboração em projetos open source.
 O site está passando por ajustes no seu visual, banco de dados que será adicionado, então, em breve teremos uma interface bem mais agradável. No entanto, sugiro que aqueles que tenham interesse e conheçam HTML, CSS e JavaScript realizem uma cópia do projeto e personalizem ao seu modo.
