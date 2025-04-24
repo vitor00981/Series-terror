@@ -130,7 +130,7 @@ let dados = [
   {
     titulo: "Resident Evil"
     sinopse: "Duas linhas do tempo são apresentadas na série. Na primeira, Jadie e Billie, ambos de 14 anos, se mudam para New Racoon City e\
-    que o seu pai tem segredos que poderiam mergulhar o mundo no caos. Na segunda, após 15 anis de descoberta do T-Vírus, os segredos de Umbrella Corporation,\
+    que o seu pai tem segredos que poderiam mergulhar o mundo no caos. Na segunda, após 15 anos de descoberta do T-Vírus, os segredos de Umbrella Corporation,\
     Asilo Greenwood e Washington, DC foram pouco a pouco revelados. 6 bilhões de infectados e apenas 15 milhões não-infectadas. Agora com 30 anos, Jade luta\
     para sobreviver em uma realidade infestada de monstros e zumbis.",
     ano: 2022,
